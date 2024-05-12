@@ -30,7 +30,6 @@ Currently, my research focuses on AIOps, which involves using data-driven approa
 
 
 # 🏃 Experiences
-- 2022.07 - Now : Huawei Cloud BU@CUHK Lab
 - 2020.06 - 2022.06: Research Intern, Microsoft Research Asia, Mentor: [Dr. Nan Duan](https://nanduan.github.io/).
 - 2020.05 - 2021.06: Research Intern, Microsoft Research Asia, Mentor: [Dr. Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ).
 - 2018.09 - 2020.04: Research Assistant, NLP@Tsinghua University, Advisor: [Prof. Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/).
