@@ -23,8 +23,7 @@ I am curious about the interface between software practitioners and AI. My inter
 
 Currently, my research focuses on AIOps, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management.
 
-<!-- 
-# 🔥 News-->
+{% include_relative news.md %}
 
 {% include_relative pub.md %}
 
