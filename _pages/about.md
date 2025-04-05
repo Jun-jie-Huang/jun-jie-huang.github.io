@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm Junjie HUANG, a first-year Ph.D. student at the Chinese University of Hong Kong, advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I received my Bachelor's degree in 2020 and Master's degree in 2023 from Beihang University.
+Welcome! I'm Junjie HUANG, a second-year Ph.D. student at the Chinese University of Hong Kong, advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I received my Bachelor's degree in 2020 and Master's degree in 2023 from Beihang University.
 
 I am curious about the interface between software practitioners and AI. My interest mainly lies in developing intelligent tools that can assist various software practitioners, including software developers, software operators, and data scientists. These tools aim to reduce efforts and improve efficiency by leveraging the power of AI.
 
-Currently, my research focuses on AIOps, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management.
+Currently, my research focuses on **AIOps**, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management.
 
 {% include_relative news.md %}
 
@@ -41,6 +41,15 @@ Currently, my research focuses on AIOps, which involves using data-driven approa
 # 💻 Activities
 - [代码智能新基准数据集CodeXGLUE来袭，多角度衡量模型优劣](https://www.msra.cn/zh-cn/news/features/codexglue)
 - [北航第四届驭远杯机器人大赛--全自动目标识别及抓取机器人](https://www.bilibili.com/video/BV1sU4y1A7wa/?vd_source=ddb3c65c685b436fa9a63a347a681efe)
+
+# 💼 Services
+
+- Program Committee:
+  - 2025: APSEC'25
+- Sub-Reviewer:
+  - 2025: ICSE, ISSTA, DSN,
+  - 2024: FSE, ISSTA, ISSRE
+  - 2023: FSE, DSN
 
 # 📞 Contact
 
