@@ -6,7 +6,7 @@
 ## AIOps
 
 - No More Labelled Examples? An Unsupervised Log Parser with LLMs (**FSE 2025**) <br>**Junjie Huang**, Zhihan Jiang, Zhuangbin Chen, Michael R. Lyu <br>
-    \[[code](https://github.com/Jun-jie-Huang/LUNAR)\] \[[paper]()\]
+    \[[code](https://github.com/Jun-jie-Huang/LUNAR)\] \[[paper](/assets/papers/fse25_lunar.pdf)\]
 
 
 - L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis (**FSE 2025**) <br>Zhihan Jiang, **Junjie Huang**, Guangba Yu, Zhuangbin Chen, Yichen Li, Renyi Zhong, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu <br>
@@ -15,12 +15,12 @@
 
 - Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis (**ISSRE 2024**) <br>
   **Junjie Huang**, Zhihan Jiang, Jinyang Liu, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Cong Feng, Hui Dong, Zengyin Yang, Michael R. Lyu <br>
-    \[[code](https://github.com/Jun-jie-Huang/LoFI)\] \[[paper](https://arxiv.org/pdf/2409.13561)\]
+    \[[code](https://github.com/Jun-jie-Huang/LoFI)\] \[[paper](/assets/papers/issre24_lofi.pdf)\]
 
 
 - FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems (**ICSE-SEIP 2024**) <br>
   **Junjie Huang**, Jinyang Liu, Zhuangbin Chen, Zhihan Jiang, Yichen Li, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, Michael R. Lyu <br>
-   \[[paper](https://arxiv.org/pdf/2402.17583.pdf)\]
+   \[[paper](/assets/papers/icseseip24_faultprofit.pdf)\]
 
 
 - Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach (**ICSE-SEIP 2024**) <br>
@@ -48,7 +48,7 @@
 
 - Contextualized Data-Wrangling Code Generation in Computational Notebooks (**ASE 2024**) <br>
   **Junjie Huang**, Daya Guo, Chenglong Wang, Jiazhen Gu, Shuai Lu, Jeevana Priya Inala, Cong Yan, Jianfeng Gao, Nan Duan, Michael R. Lyu <br>
-    \[[code](https://github.com/Jun-jie-Huang/CoCoNote)\] \[[paper](https://arxiv.org/pdf/2409.13551)\]
+    \[[code](https://github.com/Jun-jie-Huang/CoCoNote)\] \[[paper](/assets/papers/ase24_coconote.pdf)\]
 
 - CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation (**NeurIPS 2021**) <br>
   Shuai Lu<sup>*</sup>, Daya Guo<sup>*</sup>, Shuo Ren<sup>*</sup>, **Junjie Huang<sup>*</sup>**, Alexey Svyatkovskiy, Ambrosio Blanco, Colin Clement, Dawn Drain, Daxin Jiang, Duyu Tang, Ge Li, Lidong Zhou, Linjun Shou, Long Zhou, Michele Tufano, Ming Gong, Ming Zhou, Nan Duan, Neel Sundaresan, Shao Kun Deng, Shengyu Fu, Shujie Liu <br>
