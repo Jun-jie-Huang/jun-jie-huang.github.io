@@ -5,7 +5,6 @@
 
 ## AIOps
 
-- No More Labelled Examples? An Unsupervised Log Parser with LLMs (**preprint**) <br>**Junjie Huang**, Yuedong Zhong, Guangba Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Den, Michael R. Lyu <br>\[[paper](/assets/papers/ase25_iknow.pdf)\]
 - No More Labelled Examples? An Unsupervised Log Parser with LLMs (**FSE 2025**) <br>**Junjie Huang**, Zhihan Jiang, Zhuangbin Chen, Michael R. Lyu <br>
     \[[code](https://github.com/Jun-jie-Huang/LUNAR)\] \[[paper](/assets/papers/fse25_lunar.pdf)\]
 
