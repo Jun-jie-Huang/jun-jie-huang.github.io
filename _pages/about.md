@@ -21,7 +21,7 @@ Welcome! I'm Junjie HUANG, a second-year Ph.D. student at the Chinese University
 
 I am curious about the interface between software practitioners and AI. My interest mainly lies in developing intelligent tools that can assist various software practitioners, including software developers, software operators, and data scientists. These tools aim to reduce efforts and improve efficiency by leveraging the power of AI.
 
-Currently, my research focuses on **AIOps**, which involves using data-driven approaches and AI to automate IT operation tasks such as log analysis and incident management.
+Currently, my research focuses on **AI for SE**, which involves using data-driven and LLM-based approaches  to automate software engineering tasks such as code generation, log analysis and incident management.
 
 {% include_relative news.md %}
 
