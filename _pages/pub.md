@@ -5,6 +5,7 @@
 
 ## AIOps
 
+- CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs (**Under Review**) <br>**Junjie Huang**, Junjie Huang, Minghua He, Jinyang Liu, Yintong Huo, Domenico Bianculli, Michael R. Lyu <br> \[[paper](https://arxiv.org/pdf/2510.22986)\]
 - iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation (**ASE 2025**) <br>**Junjie Huang**, Yuedong Zhong, Guangba  Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Ren, Michael R. Lyu <br>\[[code](https://github.com/Jun-jie-Huang/iKnow)\] \[[paper](/assets/papers/ase25_iknow.pdf)\]
 - No More Labelled Examples? An Unsupervised Log Parser with LLMs (**FSE 2025**) <br>**Junjie Huang**, Zhihan Jiang, Zhuangbin Chen, Michael R. Lyu <br>
     \[[code](https://github.com/Jun-jie-Huang/LUNAR)\] \[[paper](/assets/papers/fse25_lunar.pdf)\]

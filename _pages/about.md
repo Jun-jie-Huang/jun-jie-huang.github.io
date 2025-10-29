@@ -17,11 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm Junjie HUANG, a second-year Ph.D. student at the Chinese University of Hong Kong, advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I received my Bachelor's degree in 2020 and Master's degree in 2023 from Beihang University.
+Welcome! I'm Junjie HUANG, a third-year Ph.D. candidate at the Chinese University of Hong Kong, advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I received my Bachelor's degree in 2020 and Master's degree in 2023 from Beihang University.
 
 I am curious about the interface between software practitioners and AI. My interest mainly lies in developing intelligent tools that can assist various software practitioners, including software developers, software operators, and data scientists. These tools aim to reduce efforts and improve efficiency by leveraging the power of AI.
 
 Currently, my research focuses on **AI for SE**, which involves using data-driven and LLM-based approaches  to automate software engineering tasks such as code generation, log analysis and incident management.
+
+#### Highlights 
+
+- **Code Intelligence**:
+  - Data Science: [ExeDS](https://aclanthology.org/2022.dash-1.pdf#page=41) (EMNLP-DaSH, 2023), [CoCoNote](/assets/papers/ase24_coconote.pdf) (ASE, 2024)
+  - Benchmark: [CodeXGLUE](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/c16a5320fa475530d9583c34fd356ef5-Paper-round1.pdf) (NeurIPS, 2021), [CoSQA](https://aclanthology.org/2021.acl-long.442.pdf) (ACL, 2021), [CodeExp](https://aclanthology.org/2022.findings-emnlp.174.pdf) (EMNLP, 2021)
+- **AIOps**
+  - Log Analysis: [SeaLog](https://arxiv.org/pdf/2306.05032) (arXiv, 2023), [LoFI](/assets/papers/issre24_lofi.pdf) (ISSRE, 2024), [LILAC](https://arxiv.org/pdf/2310.01796) (FSE, 2024), [LUNAR](/assets/papers/fse25_lunar.pdf) (FSE, 2025)
+  - Alert/Incident Analysis: [FaultProfIT](/assets/papers/icseseip24_faultprofit.pdf) (ICSE, 2024), [COLA](https://arxiv.org/pdf/2403.06485) (ICSE, 2024), [iKnow](/assets/papers/ase25_iknow.pdf) (ASE, 2025), [CodeAD](https://arxiv.org/pdf/2510.22986) (arXiv, 2025)
+  - Benchmark: [Loghub-2.0](https://arxiv.org/pdf/2308.10828.pdf) (ISSTA, 2025)
 
 {% include_relative news.md %}
 
@@ -47,7 +57,7 @@ Currently, my research focuses on **AI for SE**, which involves using data-drive
 - Program Committee:
   - 2025: APSEC'25
 - Sub-Reviewer:
-  - 2025: ICSE, ISSTA, DSN,
+  - 2025: ICSE, ISSTA, DSN, ASE, FSE
   - 2024: FSE, ISSTA, ISSRE
   - 2023: FSE, DSN
 
