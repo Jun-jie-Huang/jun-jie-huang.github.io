@@ -3,16 +3,21 @@
 
 (<sup>*</sup> indicates equal contribution, [full publication list](https://scholar.google.com/citations?user=kZnvrCEAAAAJ))
 
-## AIOps
+## Agent Foundation Model
+
+- Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence (**arXiv 2026**) <br>Guanting Dong, Junting Lu, **Junjie Huang**, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou <br>\[[website](https://agent-tars-world.github.io/)\] \[[paper](https://arxiv.org/pdf/2604.18292)\]
+
+- Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity (**Seed Technical Report**, 2026) <br>ByteDance Seed Team (**Junjie Huang** as a core contributor of *general agent* ability) <br>\[[model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)\]
+
+
+## LLM for Software Engineering
+
+- iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation (**ASE 2025**) 🏆 **<span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>** <br>**Junjie Huang**, Yuedong Zhong, Guangba  Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Ren, Michael R. Lyu <br>\[[code](https://github.com/Jun-jie-Huang/iKnow)\] \[[paper](/assets/papers/ase25_iknow.pdf)\]
 
 - CodeAD: Synthesize Code of Rules for Log-based Anomaly Detection with LLMs (**Under Review**) <br>**Junjie Huang**, Junjie Huang, Minghua He, Jinyang Liu, Yintong Huo, Domenico Bianculli, Michael R. Lyu <br> \[[paper](https://arxiv.org/pdf/2510.22986)\]
-- iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation (**ASE 2025**) 🏆 **<span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>** <br>**Junjie Huang**, Yuedong Zhong, Guangba  Yu, Zhihan Jiang, Minzhi Yan, Wenfei Luan, Tianyu Yang, Rui Ren, Michael R. Lyu <br>\[[code](https://github.com/Jun-jie-Huang/iKnow)\] \[[paper](/assets/papers/ase25_iknow.pdf)\]
+
 - No More Labelled Examples? An Unsupervised Log Parser with LLMs (**FSE 2025**) <br>**Junjie Huang**, Zhihan Jiang, Zhuangbin Chen, Michael R. Lyu <br>
     \[[code](https://github.com/Jun-jie-Huang/LUNAR)\] \[[paper](/assets/papers/fse25_lunar.pdf)\]
-
-
-- L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis (**FSE 2025**) <br>Zhihan Jiang, **Junjie Huang**, Guangba Yu, Zhuangbin Chen, Yichen Li, Renyi Zhong, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu <br>
-    \[[paper](https://arxiv.org/pdf/2503.20263)\]
 
 
 - Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis (**ISSRE 2024**) <br>
@@ -25,14 +30,12 @@
    \[[paper](/assets/papers/icseseip24_faultprofit.pdf)\]
 
 
-- Knowledge-aware Alert Aggregation in Large-scale Cloud Systems: a Hybrid Approach (**ICSE-SEIP 2024**) <br>
-  Jinxi Kuang, Jinyang Liu, **Junjie Huang**, Renyi Zhong, Jiazhen Gu, Lan Yu, Rui Tan, Zengyin Yang, Michael R. Lyu <br>
-   \[[paper](https://arxiv.org/pdf/2403.06485.pdf)\]
+## MLSys
 
+- PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction (**ICSE 2026**) 🏆 **<span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>** <br>Zhihan Jiang, Yujie Huang, Guangba Yu, **Junjie Huang**, Jiazhen Gu, Michael R. Lyu <br>\[[code](https://github.com/OpsPAI/PreServe)\] \[[paper](https://www.zhihan-jiang.com/files/ICSE26/PreServe.pdf)\]
 
-- A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We? (**ISSTA 2024**) <br>
-  Zhihan Jiang, Jinyang Liu, **Junjie Huang**, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, Michael R. Lyu <br>
-   \[[code](https://github.com/logpai/Loghub-2.0)\] \[[paper](https://arxiv.org/pdf/2308.10828.pdf)\]
+- L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis (**FSE 2025**) <br>Zhihan Jiang, **Junjie Huang**, Guangba Yu, Zhuangbin Chen, Yichen Li, Renyi Zhong, Cong Feng, Yongqiang Yang, Zengyin Yang, Michael R. Lyu <br>
+    \[[paper](https://arxiv.org/pdf/2503.20263)\]
 
 <!-- - **** () <br>
    <br>
@@ -65,11 +68,6 @@
 - Execution-based Evaluation for Data Science Code Generation Models (**EMNLP 2022** DaSH) <br>
   **Junjie Huang**, Chenglong Wang, Jipeng Zhang, Cong Yan, Haotian Cui, Jeevana Priya Inala, Colin Clement, Nan Duan, Jianfeng Gao <br>
    \[[code](https://github.com/Jun-jie-Huang/ExeDS)\] \[[paper](https://aclanthology.org/2022.dash-1.pdf#page=41)\]
-
-
-- CodeExp: Explanatory Code Document Generation (**EMNLP 2022**) <br>
-   Haotian Cui, Chenglong Wang, **Junjie Huang**, Jeevana Priya Inala, Todd Mytkowicz, Bo Wang, Jianfeng Gao, Nan Duan <br>
-    \[[code](https://github.com/subercui/CodeExp)\] \[[paper](https://aclanthology.org/2022.findings-emnlp.174.pdf)\]
 
 
 

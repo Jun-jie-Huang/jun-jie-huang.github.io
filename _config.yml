@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junjie Huang"
-description              : "\"Focus on the roots, not just the fruits\""
+description              : "PhD @ CUHK"
 repository               : "Jun-jie-Huang/jun-jie-huang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Junjie Huang"
   avatar           : "images/profile1.jpg"
   bio              : ""
-  location         :
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kZnvrCEAAAAJ"
