@@ -5,7 +5,7 @@
 
 ## Agent Foundation Model
 
-- Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence (**arXiv 2026**) <br>Guanting Dong, Junting Lu, **Junjie Huang**, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou <br>\[[website](https://agent-tars-world.github.io/)\] \[[paper](https://arxiv.org/pdf/2604.18292)\]
+- Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence (**arXiv 2026**) <br>Guanting Dong, Junting Lu, **Junjie Huang**, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou <br>\[[website](https://agent-tars-world.github.io/-/)\] \[[paper](https://arxiv.org/pdf/2604.18292)\]
 
 - Seed 2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity (**Seed Technical Report**, 2026) <br>ByteDance Seed Team (**Junjie Huang** as a core contributor of *general agent* ability) <br>\[[model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)\]
 

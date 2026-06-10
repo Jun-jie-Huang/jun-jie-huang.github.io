@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🚀 We released **Agent-World** — scaling real-world environment synthesis for evolving general agent intelligence. \[[website](https://agent-tars-world.github.io/)\] \[[paper](https://arxiv.org/pdf/2604.18292)\]
+- *2026.04*: 🚀 We released **Agent-World** — a self-evolving training arena scaling real-world environment synthesis for general agent intelligence (2,000+ environments, 19K+ tools, evaluated on 23 benchmarks). \[[website](https://agent-tars-world.github.io/-/)\] \[[paper](https://arxiv.org/pdf/2604.18292)\]
 - *2026.02*: 🚀 **Seed 2.0** is released — I contributed to its MCP tool-use agent ability. \[[model card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)\]
 - *2025.12*: 🌱 I joined **ByteDance Seed** as a Research Intern, working on Agent Foundation Models.
 - *2025.10*: 🎉 Our *PreServe* is accepted by **ICSE 2026** and won the 🏆 **<span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>**!

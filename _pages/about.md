@@ -27,7 +27,7 @@ I am currently working on **general agents**, building strong *agent harness* an
 
 - **Agent Foundation Model** (@ ByteDance Seed)
   - Agent Foundation Models: improving the *MCP tool-use* ability of [**Seed 2.0**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf), evaluated on **MCPMark**, **BFCL**, and **τ-bench**.
-  - Environment Synthesis: scaling real-world environments for evolving general agent intelligence with [**Agent-World**](https://agent-tars-world.github.io/) (2,000+ environments, 19K+ tools, 23 benchmarks).
+  - Environment Synthesis: scaling real-world environment synthesis for evolving general agent intelligence with [**Agent-World**](https://agent-tars-world.github.io/-/) — a self-evolving training arena spanning 2,000+ environments, 19K+ tools, 20 categories, and evaluated on 23 benchmarks.
   - General Agent: improving end-to-end *task-completion* ability of agents, deployed as [**Doubao Super Mode 豆包超能模式**](https://www.doubao.com/super-task-apply).
 - **AI for Code and Software Engineering** (Ph.D.)
   - Code Intelligence: [CodeXGLUE](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/c16a5320fa475530d9583c34fd356ef5-Paper-round1.pdf) (NeurIPS 2021), [CoSQA](https://aclanthology.org/2021.acl-long.442.pdf) (ACL 2021), [CoCoNote](/assets/papers/ase24_coconote.pdf) (ASE 2024)
